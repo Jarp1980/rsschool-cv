@@ -10,6 +10,11 @@ github: jarp1980
 ## Skills
 
 ## Code example
+```
+function multiply(a, b){
+  return a * b
+}
+```
 
 ## Experience
 
